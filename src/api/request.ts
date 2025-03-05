@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import { message, notification } from 'antd'
 import axios, { type AxiosError, type AxiosRequestConfig } from 'axios'
